@@ -24,3 +24,15 @@
 
 1. 下载Echo主题，上传至`usr/themes`目录下。
 2. 进入Typecho后台>控制台>外观，启用Echo主题。
+
+### 友情链接
+
+1. 本主题友情链接直接将代码插入到`sidebar.php`中。
+2. 编辑`usr/themes/echo/`下的`sidebar.php`文件。
+3. 插入如下格式到底部的友情链接模块里的div里。
+
+#### 友情链接代码格式
+
+```
+<a class="layui-btn layui-btn-xs layui-btn-primary" href="https://cciebook.com" title="风居住的街道" target="_blank">楠尘小巷</a>
+```
