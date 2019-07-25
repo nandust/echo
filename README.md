@@ -36,3 +36,16 @@
 ```
 <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://cciebook.com" title="风居住的街道" target="_blank">楠尘小巷</a>
 ```
+
+### 我的动态
+
+#### 创建我的动态页面
+
+1. 进入Typecho后台>撰写>创建页面。
+2. 自定义模板选择说说动态。
+
+#### 发布我的动态
+
+1. 登陆管理员帐号。
+2. 进入刚刚创建的动态页面。
+3. 可以看到输入框
